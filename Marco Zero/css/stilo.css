@@ -1,0 +1,23 @@
+
+
+body{
+    font-family: Verdana;
+    background-color: rgb(226, 238, 234);
+}
+
+header, footer{
+    background-color: rgb(116, 165, 149);
+    text-align: center;
+}
+
+nav{
+    display:inline-block;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
